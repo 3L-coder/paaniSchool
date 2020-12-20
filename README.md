@@ -1,2 +1,2 @@
 # paaniSchool
-###Une application de gestion des ecoles
+### Une application de gestion des ecoles
